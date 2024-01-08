@@ -99,3 +99,6 @@ nav li {
   display: flex;
   justify-content: space-around;
 }
+#what-i-do-description{
+  padding: 30px 150px;
+}
